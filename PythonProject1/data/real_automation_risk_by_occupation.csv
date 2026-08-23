@@ -1,0 +1,701 @@
+occupation,soc_code,automation_probability,required_education,employed_may_2016,median_annual_wage_usd,average_annual_wage_usd
+"Grinding, Lapping, Polishing and Buffing Machine Tool Setters, Operators and Tenders, Metal and Plastic",51-4033,0.95,High School,74600.0,32890.0,34920.0
+"Separating, Filtering, Clarifying, Precipitating and Still Machine Setters, Operators and Tenders",51-9012,0.88,High School,47160.0,38360.0,41450.0
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",41-4012,0.85,High School,1404050.0,57140.0,68410.0
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,53-1031,0.029,High School,202760.0,57270.0,59800.0
+"Molding, Coremaking and Casting Machine Setters, Operators and Tenders, Metal and Plastic",51-4072,0.95,High School,145560.0,30480.0,32660.0
+"Extruding and Forming Machine Setters, Operators and Tenders, Synthetic and Glass Fibers",51-6091,0.88,High School,19340.0,34240.0,35420.0
+"Cutting, Punching and Press Machine Setters, Operators and Tenders, Metal and Plastic",51-4031,0.78,High School,192800.0,32370.0,34210.0
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011,0.25,Bachelor’s Degree,328370.0,78980.0,92910.0
+"Drilling and Boring Machine Tool Setters, Operators and Tenders, Metal and Plastic",51-4032,0.94,High School,12290.0,36410.0,38880.0
+"Extruding, Forming, Pressing and Compacting Machine Setters, Operators and Tenders",51-9041,0.93,High School,71260.0,32510.0,34370.0
+"Lathe and Turning Machine Tool Setters, Operators and Tenders, Metal and Plastic",51-4034,0.84,High School,33850.0,38480.0,39630.0
+"Extruding and Drawing Machine Setters, Operators and Tenders, Metal and Plastic",51-4021,0.91,High School,71960.0,33870.0,35340.0
+"TextileWinding, Twisting and Drawing Out Machine Setters, Operators and Tenders",51-6064,0.96,High School,30340.0,27500.0,28110.0
+"First-Line Supervisors of Landscaping, Lawn Service and Groundskeeping Workers",37-1012,0.57,High School,103070.0,45740.0,48790.0
+"Secretaries and Administrative Assistants, Except Legal, Medical and Executive",43-6014,0.96,High School,2295510.0,34820.0,36140.0
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",49-2093,0.91,Associate Degree,13960.0,59280.0,59840.0
+"Information Security Analysts, Web Developers and Computer Network Architects",15-1179,0.21,Associate Degree,188740.0,62670.0,67770.0
+"Milling and Planing Machine Setters, Operators and Tenders, Metal and Plastic",51-4035,0.98,High School,17560.0,39840.0,41180.0
+"Plating and Coating Machine Setters, Operators and Tenders, Metal and Plastic",51-4193,0.92,High School,35570.0,31280.0,33690.0
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",49-2022,0.36,Associate Degree,228430.0,53640.0,54520.0
+"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",51-4012,0.36,High School,25180.0,50580.0,53560.0
+"Food and Tobacco Roasting, Baking and Drying Machine Operators and Tenders",51-3091,0.91,High School,20080.0,28570.0,30970.0
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17-2111,0.028,Bachelor’s Degree,25410.0,86720.0,90190.0
+Adult Basic and Secondary Education and Literacy Teachers and Instructors,25-3011,0.19,Bachelor’s Degree,58810.0,50650.0,55140.0
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",49-2094,0.41,Associate Degree,67390.0,56250.0,56990.0
+"Heat Treating Equipment Setters, Operators and Tenders, Metal and Plastic",51-4191,0.91,High School,19780.0,37180.0,39010.0
+"Helpers–Brickmasons, Blockmasons, Stonemasons and Tile and Marble Setters",47-3011,0.83,High School,23950.0,30570.0,33610.0
+"Lifeguards, Ski Patrol and Other Recreational Protective Service Workers",33-9092,0.67,High School,145100.0,20290.0,22640.0
+"Postal Service Mail Sorters, Processors and Processing Machine Operators",43-5053,0.79,High School,110770.0,56220.0,49710.0
+"Secondary School Teachers, Except Special and Career/Technical Education",25-2031,0.0078,Bachelor’s Degree,1003250.0,58030.0,61420.0
+"Crushing, Grinding and Polishing Machine Setters, Operators and Tenders",51-9021,0.97,High School,29830.0,34390.0,36050.0
+"Door-to-Door Sales Workers, News and Street Vendors and Related Workers",41-9091,0.94,High School,8040.0,24330.0,28630.0
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",53-3011,0.25,High School,17300.0,23850.0,25600.0
+"Electrical and Electronics Repairers, Powerhouse, Substation and Relay",49-2095,0.38,Associate Degree,23060.0,75670.0,74540.0
+"MultipleMachine Tool Setters, Operators and Tenders, Metal and Plastic",51-4081,0.91,High School,117300.0,34340.0,36190.0
+"Coating, Painting and Spraying Machine Setters, Operators and Tenders",51-9121,0.91,High School,85760.0,32790.0,34460.0
+"First-Line Supervisors of Helpers, Laborers and Material Movers, Hand",53-1021,0.42,High School,183620.0,47230.0,50160.0
+"Middle School Teachers, Except Special and Career/Technical Education",25-2022,0.17,Bachelor’s Degree,626310.0,56720.0,59800.0
+"Welding, Soldering and Brazing Machine Setters, Operators and Tenders",51-4122,0.61,High School,46920.0,36980.0,38380.0
+"Cleaning, Washing and Metal Pickling Equipment Operators and Tenders",51-9192,0.81,High School,17860.0,28550.0,30590.0
+"Heating, Air Conditioning and Refrigeration Mechanics and Installers",49-9021,0.65,Associate Degree,294730.0,45910.0,48320.0
+"Human Resources, Training and Labor Relations Specialists, All Other",13-1078,0.31,Bachelor’s Degree,79430.0,62310.0,64250.0
+First-Line Supervisors of Office and Administrative Support Workers,43-1011,0.014,High School,1443150.0,54340.0,57890.0
+"Textile Knitting and Weaving Machine Setters, Operators and Tenders",51-6063,0.73,High School,21550.0,27470.0,28380.0
+"Combined Food Preparation and Serving Workers, Including Fast Food",35-3021,0.92,High School,3426090.0,19440.0,20460.0
+"Control and Valve Installers and Repairers, Except Mechanical Door",49-9012,0.63,High School,45740.0,54520.0,56180.0
+"Environmental Science and Protection Technicians, Including Health",19-4091,0.77,Associate Degree,32950.0,44190.0,47930.0
+"Mining and Geological Engineers, Including Mining Safety Engineers",17-2151,0.14,Bachelor’s Degree,6940.0,93720.0,103010.0
+"Forging Machine Setters, Operators and Tenders, Metal and Plastic",51-4022,0.93,High School,19160.0,36930.0,38710.0
+"Rolling Machine Setters, Operators and Tenders, Metal and Plastic",51-4023,0.83,High School,29060.0,40680.0,41900.0
+"Woodworking Machine Setters, Operators and Tenders, Except Sawing",51-7042,0.97,High School,76130.0,28510.0,29850.0
+"Agents and Business Managers of Artists, Performers and Athletes",13-1011,0.24,Bachelor’s Degree,13470.0,62080.0,86560.0
+"Education Administrators, Preschool and Childcare Center/Program",11-9031,0.015,Bachelor’s Degree,48530.0,45790.0,52150.0
+Electronic Home Entertainment Equipment Installers and Repairers,49-2097,0.65,Associate Degree,25550.0,37410.0,39340.0
+"First-Line Supervisors of Farming, Fishing and Forestry Workers",45-1011,0.57,High School,19550.0,45320.0,48820.0
+"Funeral Service Managers, Directors, Morticians and Undertakers",39-4831,0.2,Associate Degree,25850.0,50090.0,54700.0
+"Petroleum Pump System Operators, Refinery Operators and Gaugers",51-8093,0.71,High School,41630.0,67400.0,67870.0
+"Counter Attendants, Cafeteria, Food Concession and Coffee Shop",35-3022,0.96,High School,499550.0,19970.0,21380.0
+First-Line Supervisors of Fire Fighting and Prevention Workers,33-1021,0.0036,Associate Degree,57170.0,74540.0,77050.0
+First-Line Supervisors of Food Preparation and Serving Workers,35-1012,0.63,High School,908550.0,31480.0,34700.0
+Operating Engineers and Other Construction Equipment Operators,47-2073,0.95,High School,356750.0,45890.0,50560.0
+Reservation and Transportation Ticket Agents and Travel Clerks,43-4181,0.61,High School,146350.0,35230.0,38050.0
+"Computer-Controlled Machine Tool Operators, Metal and Plastic",51-4011,0.86,High School,146190.0,37880.0,39590.0
+"Electronic Equipment Installers and Repairers, Motor Vehicles",49-2096,0.61,Associate Degree,11750.0,32220.0,34200.0
+Executive Secretaries and Executive Administrative Assistants,43-6011,0.86,High School,631610.0,55860.0,57910.0
+"First-Line Supervisors of Mechanics, Installers and Repairers",49-1011,0.003,High School,453330.0,63540.0,66730.0
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,0.66,High School,2161740.0,24190.0,27030.0
+"Mail Clerks and Mail Machine Operators, Except Postal Service",43-9051,0.94,High School,91530.0,29160.0,30580.0
+Photographic Process Workers and Processing Machine Operators,51-9151,0.99,High School,26430.0,26470.0,31740.0
+"Administrative Law Judges, Adjudicators and Hearing Officers",23-1021,0.64,PhD,14540.0,92110.0,95240.0
+"Aircraft Structure, Surfaces, Rigging and Systems Assemblers",51-2011,0.79,High School,42010.0,50050.0,52530.0
+"Fine Artists, Including Painters, Sculptors and Illustrators",27-1013,0.042,Bachelor’s Degree,11520.0,50790.0,57410.0
+First-Line Supervisors of Housekeeping and JanitorialWorkers,37-1011,0.94,High School,161140.0,38190.0,41240.0
+"Helpers–Painters, Paperhangers, Plasterers and Stucco Masons",47-3014,0.94,High School,10780.0,27310.0,28760.0
+"Coin, Vending and Amusement Machine Servicers and Repairers",49-9091,0.94,High School,33600.0,33070.0,34860.0
+"Furnace, Kiln, Oven, Drier and Kettle Operators and Tenders",51-9051,0.37,High School,19520.0,36040.0,37600.0
+"Securities, Commodities and Financial Services Sales Agents",41-3031,0.016,Bachelor’s Degree,353780.0,67310.0,102260.0
+"Cutting and Slicing Machine Setters, Operators and Tenders",51-9032,0.86,High School,61330.0,32870.0,34000.0
+Dining Room and Cafeteria Attendants and Bartender Helpers,35-9011,0.91,High School,423080.0,20200.0,22340.0
+"Environmental Scientists and Specialists, Including Health",19-2041,0.033,Bachelor’s Degree,84250.0,68910.0,75360.0
+First-Line Supervisors of Production and Operating Workers,51-1011,0.016,High School,610480.0,57780.0,61450.0
+"Helpers–Pipelayers, Plumbers, Pipefitters and Steamfitters",47-3015,0.57,High School,54080.0,29030.0,30640.0
+"Human Resources Assistants, Except Payroll and Timekeeping",43-4161,0.9,Associate Degree,137150.0,39020.0,40100.0
+"Radio, Cellular and Tower Equipment Installers and Repairs",49-2021,0.93,Associate Degree,14120.0,52480.0,53620.0
+Textile Bleaching and Dyeing Machine Operators and Tenders,51-6061,0.97,High School,10860.0,27270.0,28480.0
+"Education Administrators, Elementary and Secondary School",11-9032,0.0046,Master’s Degree,242970.0,92510.0,95390.0
+"ExplosivesWorkers, Ordnance Handling Experts and Blasters",47-5031,0.48,High School,6310.0,52170.0,54580.0
+"Healthcare Practitioners and Technical Workers, All Other",29-9799,0.055,Associate Degree,36000.0,48820.0,57960.0
+"Mixing and BlendingMachine Setters, Operators and Tenders",51-9023,0.83,High School,130480.0,35680.0,37630.0
+Probation Officers and Correctional Treatment Specialists,21-1092,0.25,Bachelor’s Degree,87500.0,50160.0,55380.0
+Water and Wastewater Treatment Plant and System Operators,51-8031,0.61,High School,115840.0,45760.0,47930.0
+"Weighers, Measurers, Checkers and Samplers, Recordkeeping",43-5111,0.95,High School,74460.0,28790.0,31080.0
+"Life, Physical and Social Science Technicians, All Other",19-4099,0.61,Associate Degree,68540.0,46040.0,49270.0
+Outdoor Power Equipment and Other Small Engine Mechanics,49-3053,0.93,High School,33020.0,33730.0,35320.0
+"Pesticide Handlers, Sprayers and Applicators, Vegetation",37-3012,0.97,High School,25230.0,33740.0,35720.0
+"Property, Real Estate and Community Association Managers",11-9141,0.81,High School,180290.0,57040.0,70290.0
+"Computer, Automated Teller and Office Machine Repairers",49-2011,0.74,Associate Degree,102170.0,37100.0,39410.0
+"Educational, Guidance, School and Vocational Counselors",21-1012,0.0085,Master’s Degree,260670.0,54560.0,57620.0
+"Health Diagnosing and Treating Practitioners, All Other",29-1199,0.02,Master’s Degree,36280.0,74530.0,84800.0
+"Hosts and Hostesses, Restaurant, Lounge and Coffee Shop",35-9031,0.97,High School,404360.0,19980.0,21410.0
+"Installation, Maintenance and Repair Workers, All Other",49-9799,0.5,High School,146460.0,38480.0,41810.0
+"Camera Operators, Television, Video and Motion Picture",27-4031,0.6,Bachelor’s Degree,21710.0,55080.0,63200.0
+"Molders, Shapers and Casters, Except Metal and Plastic",51-9195,0.9,High School,39450.0,30610.0,32590.0
+"Textile Cutting Machine Setters, Operators and Tenders",51-6062,0.95,High School,15040.0,26090.0,27860.0
+Veterinary Assistants and Laboratory Animal Caretakers,31-9096,0.86,High School,79990.0,25250.0,26810.0
+Bus and Truck Mechanics and Diesel Engine Specialists,49-3031,0.73,High School,254280.0,45170.0,46710.0
+"Career/Technical Education Teachers, Secondary School",25-2032,0.0088,Bachelor’s Degree,80100.0,57320.0,59480.0
+Excavating and Loading Machine and Dragline Operators,53-7032,0.94,High School,48320.0,41030.0,45230.0
+Gaming Surveillance Officers and Gaming Investigators,33-9031,0.95,High School,10460.0,32630.0,35280.0
+"Laborers and Freight, Stock and Material Movers, Hand",53-7062,0.85,High School,2587900.0,25980.0,28720.0
+Rail-Track Laying and Maintenance Equipment Operators,47-4061,0.89,High School,14250.0,53970.0,52810.0
+Cooling and Freezing Equipment Operators and Tenders,51-9193,0.93,High School,8170.0,29190.0,32100.0
+"Elementary School Teachers, Except Special Education",25-2021,0.0044,Bachelor’s Degree,1392660.0,55800.0,59020.0
+"Helpers–Installation, Maintenance and Repair Workers",49-9098,0.79,High School,118720.0,27510.0,29370.0
+Audio-Visual and Multimedia Collections Specialists,25-9011,0.39,Bachelor’s Degree,10300.0,47840.0,50130.0
+"Compensation, Benefits and Job Analysis Specialists",13-1141,0.47,Bachelor’s Degree,79190.0,62080.0,66490.0
+"Engineering Technicians, Except Drafters, All Other",17-3029,0.24,Associate Degree,74290.0,62330.0,64050.0
+"Inspectors, Testers, Sorters, Samplers and Weighers",51-9061,0.98,High School,518950.0,36780.0,40340.0
+Packaging and Filling Machine Operators and Tenders,51-9111,0.98,High School,386520.0,28290.0,30910.0
+"Sawing Machine Setters, Operators and Tenders, Wood",51-7041,0.86,High School,50640.0,28380.0,29960.0
+"Transportation Attendants, Except Flight Attendants",53-6061,0.75,High School,18410.0,26060.0,31080.0
+"Career/Technical Education Teachers, Middle School",25-2023,0.26,Bachelor’s Degree,12730.0,57560.0,60350.0
+Electrical and Electronics Engineering Technicians,17-3023,0.84,Associate Degree,134870.0,62190.0,62950.0
+First-Line Supervisors of Non-Retail Sales Workers,41-1012,0.075,High School,252670.0,73150.0,85830.0
+First-Line Supervisors of Personal Service Workers,39-1021,0.076,High School,190420.0,36700.0,39830.0
+"Geoscientists, Except Hydrologists and Geographers",19-2042,0.63,Bachelor’s Degree,30420.0,89780.0,106390.0
+"Locker Room, Coatroom and Dressing Room Attendants",39-3093,0.43,High School,18040.0,21720.0,24390.0
+Market Research Analysts and Marketing Specialists,13-1161,0.61,Bachelor’s Degree,558630.0,62560.0,70620.0
+Medical Records and Health Information Technicians,29-2071,0.91,Associate Degree,200140.0,38040.0,41460.0
+"Paper Goods Machine Setters, Operators and Tenders",51-9196,0.67,High School,93100.0,36990.0,38570.0
+"Rail Yard Engineers, Dinkey Operators and Hostlers",53-4013,0.91,High School,4530.0,50470.0,52320.0
+"Refractory Materials Repairers, Except Brickmasons",49-9045,0.82,High School,1540.0,45230.0,47000.0
+Substance Abuse and Behavioral Disorder Counselors,21-1011,0.033,Bachelor’s Degree,91040.0,41070.0,44160.0
+"Switchboard Operators, Including Answering Service",43-2011,0.96,High School,90910.0,28030.0,29720.0
+"Farmers, Ranchers and Other Agricultural Managers",11-9013,0.047,High School,4560.0,66360.0,75790.0
+Forest Fire Inspectors and Prevention Specialists,33-2022,0.048,High School,1650.0,36230.0,44300.0
+Licensed Practical and Licensed Vocational Nurses,29-2061,0.058,Associate Degree,702400.0,44090.0,44840.0
+"Paving, Surfacing and Tamping Equipment Operators",47-2071,0.83,High School,51880.0,38970.0,43800.0
+"Transportation, Storage and Distribution Managers",11-3071,0.59,High School,113270.0,89190.0,97630.0
+"Wholesale and Retail Buyers, Except Farm Products",13-1022,0.29,Bachelor’s Degree,109440.0,53340.0,60040.0
+Aerospace Engineering and Operations Technicians,17-3021,0.48,Associate Degree,11970.0,68020.0,71070.0
+"Electric Motor, Power Tool and Related Repairers",49-2092,0.76,Associate Degree,17050.0,41570.0,44720.0
+Farm Equipment Mechanics and Service Technicians,49-3041,0.75,High School,35110.0,37820.0,39310.0
+"Floor Layers, Except Carpet, Wood and Hard Tiles",47-2042,0.79,High School,10340.0,37840.0,42370.0
+Gas Compressor and Gas Pumping Station Operators,53-7071,0.91,High School,3890.0,60470.0,59620.0
+Manufactured Building and Mobile Home Installers,49-9095,0.18,High School,3200.0,29810.0,31030.0
+Mental Health and Substance Abuse Social Workers,21-1023,0.0031,Bachelor’s Degree,114040.0,42700.0,47880.0
+"Mobile Heavy Equipment Mechanics, Except Engines",49-3042,0.4,High School,123570.0,49370.0,50810.0
+"Pressers, Textile, Garment and Related Materials",51-6021,0.81,High School,45150.0,21300.0,22270.0
+"Social Scientists and Related Workers, All Other",19-3099,0.04,Bachelor’s Degree,36380.0,77020.0,80860.0
+Telecommunications Line Installers and Repairers,49-9052,0.49,High School,100080.0,52590.0,54700.0
+First-Line Supervisors of Correctional Officers,33-1011,0.025,High School,43230.0,60560.0,65100.0
+First-Line Supervisors of Police and Detectives,33-1012,0.0044,High School,100200.0,84840.0,88400.0
+"Health Technologists and Technicians, All Other",29-2799,0.4,High School,122170.0,41070.0,46020.0
+"Kindergarten Teachers, Except Special Education",25-2012,0.15,Bachelor’s Degree,151290.0,52620.0,55460.0
+Tax Examiners and Collectors and Revenue Agents,13-2081,0.93,Bachelor’s Degree,58450.0,52060.0,57950.0
+Adhesive Bonding Machine Operators and Tenders,51-9191,0.95,High School,16940.0,32290.0,34610.0
+"Dispatchers, Except Police, Fire and Ambulance",43-5032,0.96,High School,197910.0,37940.0,41190.0
+Electrical and Electronic Equipment Assemblers,51-2022,0.95,High School,218530.0,31310.0,33700.0
+Electrical Power-Line Installers and Repairers,49-9051,0.097,High School,117670.0,68010.0,67160.0
+First-Line Supervisors of Retail Sales Workers,41-1011,0.28,High School,1194220.0,39040.0,43910.0
+"Airline Pilots, Copilots and Flight Engineers",53-2011,0.18,Bachelor’s Degree,81520.0,127820.0,152770.0
+"Claims Adjusters, Examiners and Investigators",13-1031,0.98,High School,274420.0,63680.0,64990.0
+"Clinical, Counseling and School Psychologists",19-3031,0.0047,PhD,107980.0,73270.0,78690.0
+"Directors, Religious Activities and Education",21-2021,0.025,Bachelor’s Degree,20590.0,38610.0,44840.0
+"Eligibility Interviewers, Government Programs",43-4061,0.7,High School,135940.0,43350.0,43550.0
+"Hairdressers, Hairstylists and Cosmetologists",39-5012,0.11,Associate Degree,352380.0,24260.0,29590.0
+Insurance Claims and Policy Processing Clerks,43-9041,0.98,High School,274350.0,38430.0,40780.0
+Jewelers and Precious Stone and Metal Workers,51-9071,0.95,High School,26480.0,38200.0,42310.0
+"Loading Machine Operators, Underground Mining",53-7033,0.5,High School,2550.0,53420.0,51260.0
+Medical and Clinical Laboratory Technologists,29-2011,0.9,Bachelor’s Degree,166730.0,61070.0,62440.0
+Mine Cutting and Channeling Machine Operators,47-5042,0.59,High School,5930.0,51900.0,50670.0
+Septic Tank Servicers and Sewer Pipe Cleaners,47-4071,0.83,High School,26320.0,36430.0,38870.0
+Automotive and Watercraft Service Attendants,53-6031,0.83,High School,109790.0,22420.0,24280.0
+Automotive Service Technicians and Mechanics,49-3023,0.59,Associate Degree,647380.0,38470.0,41400.0
+Cardiovascular Technologists and Technicians,29-2031,0.23,Associate Degree,53760.0,55570.0,57100.0
+Computer and Information Research Scientists,15-1111,0.015,PhD,26580.0,111840.0,116320.0
+Emergency Medical Technicians and Paramedics,29-2041,0.049,Associate Degree,244960.0,32670.0,36110.0
+Metal-Refining Furnace Operators and Tenders,51-4051,0.88,High School,17730.0,41040.0,41840.0
+"Preschool Teachers, Except Special Education",25-2011,0.0074,Associate Degree,385550.0,28790.0,33300.0
+"Special Education Teachers, Secondary School",25-2054,0.0077,Bachelor’s Degree,132490.0,59700.0,64020.0
+"Umpires, Referees and Other Sports Officials",27-2023,0.98,High School,18660.0,25660.0,35540.0
+"Bookkeeping, Accounting and Auditing Clerks",43-3031,0.98,Associate Degree,1566960.0,38390.0,40220.0
+"Buyers and Purchasing Agents, Farm Products",13-1021,0.87,Bachelor’s Degree,11490.0,58430.0,63910.0
+Camera and Photographic Equipment Repairers,49-9061,0.97,Associate Degree,3760.0,41060.0,43920.0
+"Captains, Mates and Pilots of Water Vessels",53-5021,0.27,Associate Degree,36720.0,72680.0,81520.0
+"Construction and Related Workers, All Other",47-4799,0.71,High School,35340.0,36890.0,40480.0
+"Insulation Workers, Floor, Ceiling and Wall",47-2131,0.83,High School,29500.0,35660.0,39490.0
+"Meat, Poultry and Fish Cutters and Trimmers",51-3022,0.94,High School,149800.0,24490.0,25510.0
+Medical and Clinical Laboratory Technicians,29-2012,0.47,Associate Degree,160190.0,38950.0,41700.0
+Motorboat Mechanics and Service Technicians,49-3051,0.66,High School,20260.0,38780.0,40860.0
+Network and Computer Systems Administrators,15-1142,0.03,Bachelor’s Degree,376820.0,79700.0,84500.0
+"Railroad Brake, Signal and Switch Operators",53-4021,0.83,High School,19860.0,56570.0,55320.0
+"Service Unit Operators, Oil, Gas and Mining",47-5013,0.93,High School,42890.0,48610.0,53520.0
+Aircraft Mechanics and Service Technicians,49-3011,0.71,Associate Degree,128570.0,60170.0,61190.0
+"Business Operations Specialists, All Other",13-1199,0.23,Bachelor’s Degree,958670.0,69040.0,74870.0
+Food Cooking Machine Operators and Tenders,51-3093,0.61,High School,36520.0,28350.0,30330.0
+Gaming and Sports Book Writers and Runners,39-3012,0.91,High School,11460.0,22600.0,25710.0
+"Graders and Sorters, Agricultural Products",45-2041,0.41,High School,38780.0,22520.0,24280.0
+"Makeup Artists, Theatrical and Performance",39-5091,0.01,Associate Degree,3600.0,60970.0,71590.0
+"Medical Scientists, Except Epidemiologists",19-1042,0.0045,PhD,108870.0,80530.0,95000.0
+Merchandise Displayers and Window Trimmers,27-1026,0.48,High School,114690.0,26700.0,30090.0
+Occupational Health and Safety Specialists,29-9011,0.17,Bachelor’s Degree,76630.0,70920.0,72480.0
+Occupational Health and Safety Technicians,29-9012,0.25,High School,16560.0,48820.0,52520.0
+"Production, Planning and Expediting Clerks",43-5061,0.88,High School,321780.0,46760.0,49050.0
+Public Address System and Other Announcers,27-3012,0.72,High School,8020.0,28940.0,42740.0
+Security and Fire Alarm Systems Installers,49-2098,0.82,High School,67700.0,44330.0,45660.0
+"Title Examiners, Abstractors and Searchers",23-2093,0.99,High School,54560.0,45800.0,51490.0
+"Ushers, Lobby Attendants and Ticket Takers",39-3031,0.96,High School,117920.0,19920.0,21740.0
+Agricultural and Food Science Technicians,19-4011,0.97,Associate Degree,20420.0,37550.0,40470.0
+Automotive Glass Installers and Repairers,49-3022,0.55,High School,18610.0,34340.0,36140.0
+Computer and Information Systems Managers,11-3021,0.035,Bachelor’s Degree,352510.0,135800.0,145740.0
+Fitness Trainers and Aerobics Instructors,39-9031,0.085,High School,257410.0,38160.0,42780.0
+"Interviewers, Except Eligibility and Loan",43-4111,0.94,High School,186030.0,32150.0,33640.0
+Judges,23-1023,0.4,PhD,27210.0,125880.0,115460.0
+"Office Machine Operators, Except Computer",43-9071,0.92,High School,58160.0,30460.0,32390.0
+Public Relations and Fundraising Managers,11-2031,0.015,Bachelor’s Degree,63970.0,107320.0,123360.0
+Refuse and Recyclable Material Collectors,53-7081,0.93,High School,114680.0,35270.0,37690.0
+"Special Education Teachers, Middle School",25-2053,0.016,Bachelor’s Degree,90250.0,58560.0,61910.0
+Stationary Engineers and Boiler Operators,51-8021,0.89,High School,33720.0,59400.0,61410.0
+Chemical Equipment Operators and Tenders,51-9011,0.76,High School,73840.0,47780.0,50300.0
+Gaming Change Persons and Booth Cashiers,41-2012,0.83,High School,23120.0,23780.0,25940.0
+Light Truck or Delivery Services Drivers,53-3033,0.69,High School,858710.0,30580.0,34790.0
+"Painting, Coating and Decorating Workers",51-9123,0.92,High School,15450.0,30030.0,32040.0
+Ambulance Drivers and Attendants,29-2037,0.23,Associate Degree,35850.0,68420.0,69240.0
+Recreational Vehicle Service Technicians,49-3092,0.59,High School,13520.0,36430.0,38040.0
+Structural Metal Fabricators and Fitters,51-2041,0.41,High School,77270.0,37730.0,40000.0
+Veterinary Technologists and Technicians,29-2056,0.029,Associate Degree,99390.0,32490.0,33870.0
+Appraisers and Assessors of Real Estate,13-2021,0.9,Bachelor’s Degree,60770.0,51850.0,58030.0
+"Arbitrators, Mediators and Conciliators",23-1022,0.06,Bachelor’s Degree,6300.0,59770.0,72730.0
+"Child, Family and School Social Workers",21-1021,0.028,Bachelor’s Degree,298840.0,43250.0,47510.0
+"Credit Authorizers, Checkers and Clerks",43-4041,0.97,High School,37680.0,36930.0,39320.0
+"Education Administrators, Postsecondary",11-9033,0.01,Master’s Degree,138430.0,90760.0,105770.0
+Heavy and Tractor-Trailer Truck Drivers,53-3032,0.79,Associate Degree,1704520.0,41340.0,43590.0
+Industrial-Organizational Psychologists,19-3032,0.012,Master’s Degree,1020.0,82760.0,104570.0
+"Maintenance and Repair Workers, General",49-9071,0.64,High School,1332480.0,36940.0,39360.0
+Musical Instrument Repairers and Tuners,49-9063,0.91,High School,7980.0,35010.0,37690.0
+"Pump Operators, Except Wellhead Pumpers",53-7072,0.9,High School,12030.0,42470.0,46270.0
+"Welders, Cutters, Solderers and Brazers",51-4121,0.94,High School,382730.0,39390.0,42450.0
+"Architects, Except Landscape and Naval",17-1011,0.018,Bachelor’s Degree,99860.0,76930.0,84470.0
+Architectural and Engineering Managers,11-9041,0.017,Bachelor’s Degree,178390.0,134730.0,143870.0
+Electromechanical Equipment Assemblers,51-2023,0.97,High School,45540.0,33350.0,35410.0
+"Electronics Engineers, Except Computer",17-2072,0.025,Bachelor’s Degree,132100.0,99210.0,103760.0
+Industrial Truck and Tractor Operators,53-7051,0.93,High School,542750.0,32460.0,34260.0
+Landscaping and Groundskeeping Workers,37-3011,0.95,High School,906570.0,26320.0,28560.0
+"Meeting, Convention and Event Planners",13-1121,0.037,Bachelor’s Degree,95850.0,47350.0,52020.0
+"Painters, Construction and Maintenance",47-2141,0.75,High School,217280.0,37570.0,41510.0
+"Plumbers, Pipefitters and Steamfitters",47-2152,0.35,High School,411870.0,51450.0,56030.0
+"Police, Fire and Ambulance Dispatchers",43-5031,0.49,High School,95170.0,38870.0,41070.0
+"Shipping, Receiving and Traffic Clerks",43-5071,0.98,High School,676990.0,31180.0,33150.0
+Shoe and Leather Workers and Repairers,51-6041,0.52,High School,7780.0,23940.0,26040.0
+"Tailors, Dressmakers and Custom Sewers",51-6052,0.84,High School,21660.0,28240.0,30670.0
+Timing Device Assemblers and Adjusters,51-2093,0.98,High School,790.0,37040.0,42470.0
+Audio and Video Equipment Technicians,27-4011,0.55,Associate Degree,69670.0,42230.0,47450.0
+Automotive Body and Related Repairers,49-3021,0.91,High School,143940.0,41540.0,45180.0
+"Bus Drivers, School or Special Client",53-3022,0.89,High School,515020.0,30150.0,31110.0
+Detectives and Criminal Investigators,33-3021,0.34,High School,104980.0,78120.0,81490.0
+Environmental Engineering Technicians,17-3025,0.25,Associate Degree,16550.0,49170.0,52500.0
+Fiberglass Laminators and Fabricators,51-2091,0.93,High School,19400.0,30870.0,33020.0
+"Healthcare Support Workers, All Other",31-9799,0.63,High School,93830.0,36330.0,37720.0
+Marine Engineers and Naval Architects,17-2121,0.01,Bachelor’s Degree,8120.0,93350.0,99860.0
+"Plant and System Operators, All Other",51-8099,0.86,High School,11970.0,54930.0,55340.0
+Social and Community Service Managers,11-9151,0.0067,Bachelor’s Degree,126230.0,64680.0,70870.0
+"Software Developers, Systems Software",15-1133,0.13,Bachelor’s Degree,409820.0,106860.0,110590.0
+Cement Masons and Concrete Finishers,47-2051,0.94,High School,173920.0,39180.0,43720.0
+Construction and Building Inspectors,47-4011,0.63,High School,94960.0,58480.0,61250.0
+Geological and Petroleum Technicians,19-4041,0.91,Associate Degree,15100.0,56470.0,62240.0
+"Grinding and Polishing Workers, Hand",51-9022,0.97,High School,26670.0,28720.0,30860.0
+Medical and Health Services Managers,11-9111,0.0073,Bachelor’s Degree,332150.0,96540.0,109370.0
+Police and Sheriff’s Patrol Officers,33-3051,0.098,High School,657690.0,59680.0,62760.0
+Postmasters and Mail Superintendents,11-9131,0.75,High School,14720.0,71670.0,71980.0
+Private Detectives and Investigators,33-9021,0.31,High School,28490.0,48190.0,53530.0
+Receptionists and Information Clerks,43-4171,0.96,High School,997770.0,27920.0,29120.0
+"Tool Grinders, Filers and Sharpeners",51-4194,0.88,High School,9550.0,36650.0,38860.0
+Training and Development Specialists,13-1151,0.014,Bachelor’s Degree,269710.0,59020.0,63350.0
+Advertising and Promotions Managers,11-2011,0.039,Bachelor’s Degree,28860.0,100810.0,117810.0
+Aircraft Cargo Handling Supervisors,53-1011,0.066,High School,7460.0,47360.0,51900.0
+Amusement and Recreation Attendants,39-3091,0.72,High School,286740.0,20160.0,22000.0
+Cartographers and Photogrammetrists,17-1021,0.88,Bachelor’s Degree,12100.0,62750.0,66160.0
+Chemical Plant and System Operators,51-8091,0.85,High School,33300.0,59920.0,59430.0
+Commercial and Industrial Designers,27-1021,0.037,Bachelor’s Degree,31860.0,67790.0,70880.0
+Continuous Mining Machine Operators,47-5041,0.54,High School,12030.0,51840.0,52650.0
+"Court, Municipal and License Clerks",43-4031,0.46,High School,128620.0,36670.0,39160.0
+Demonstrators and Product Promoters,41-9011,0.51,High School,86500.0,25610.0,30570.0
+Drywall and Ceiling Tile Installers,47-2081,0.79,High School,93180.0,41090.0,47400.0
+Electrical and Electronics Drafters,17-3012,0.81,Associate Degree,26750.0,59970.0,63390.0
+Engine and Other Machine Assemblers,51-2031,0.82,High School,38150.0,41210.0,43090.0
+Fishers and Related Fishing Workers,45-3011,0.83,High School,520.0,27110.0,30740.0
+Forest and Conservation Technicians,19-4093,0.42,Associate Degree,30090.0,35560.0,38630.0
+Hazardous Materials Removal Workers,47-4041,0.53,High School,44280.0,40640.0,45500.0
+"Hotel, Motel and Resort Desk Clerks",43-4081,0.94,High School,248440.0,22070.0,23530.0
+Museum Technicians and Conservators,25-4013,0.59,Bachelor’s Degree,10970.0,40040.0,44780.0
+Print Binding and Finishing Workers,51-5113,0.95,High School,52730.0,31410.0,33270.0
+Railroad Conductors and Yardmasters,53-4031,0.83,High School,42880.0,57480.0,58220.0
+"Rotary Drill Operators, Oil and Gas",47-5012,0.53,High School,17400.0,54430.0,57140.0
+Social and Human Service Assistants,21-1093,0.13,High School,360650.0,31810.0,34120.0
+"Teachers and Instructors, All Other",25-3999,0.0095,Bachelor’s Degree,609960.0,28010.0,30900.0
+"Bus Drivers, Transit and Intercity",53-3021,0.67,High School,169680.0,39790.0,41780.0
+Cabinetmakers and Bench Carpenters,51-7011,0.92,High School,97980.0,33050.0,34800.0
+Cleaners of Vehicles and Equipment,53-7061,0.37,High School,348770.0,22220.0,24660.0
+"Coil Winders, Tapers and Finishers",51-2021,0.73,High School,14090.0,33940.0,35340.0
+Compensation and Benefits Managers,11-3111,0.96,Bachelor’s Degree,15230.0,116240.0,126900.0
+"Earth Drillers, Except Oil and Gas",47-5021,0.85,High School,18500.0,44360.0,51240.0
+Industrial Engineering Technicians,17-3026,0.03,Associate Degree,63220.0,53330.0,56920.0
+Mechanical Engineering Technicians,17-3027,0.38,Associate Degree,45510.0,54480.0,57180.0
+Miscellaneous Agricultural Workers,45-2090,0.87,High School,342870.0,22520.0,24860.0
+"Painters, Transportation Equipment",51-9122,0.69,High School,54860.0,42150.0,46270.0
+Power Distributors and Dispatchers,51-8012,0.64,High School,11380.0,81900.0,81500.0
+Reinforcing Iron and Rebar Workers,47-2171,0.9,High School,20020.0,47600.0,53600.0
+Self-Enrichment Education Teachers,25-3021,0.13,High School,229840.0,37330.0,43150.0
+Shoe Machine Operators and Tenders,51-6042,0.97,High School,3500.0,26150.0,26530.0
+Social Science Research Assistants,19-4061,0.65,Bachelor’s Degree,30030.0,43190.0,46820.0
+Zoologists and Wildlife Biologists,19-1023,0.3,Bachelor’s Degree,17720.0,60520.0,64890.0
+Anthropologists and Archeologists,19-3091,0.0077,Master’s Degree,6470.0,63190.0,66440.0
+Correctional Officers and Jailers,33-3012,0.6,High School,431600.0,42820.0,46750.0
+Elevator Installers and Repairers,47-4021,0.39,High School,22240.0,78890.0,76860.0
+Farm and Home Management Advisors,25-9021,0.0075,Master’s Degree,8620.0,49490.0,52150.0
+Fire Inspectors and Investigators,33-2021,0.48,Associate Degree,11910.0,58440.0,61660.0
+Food Scientists and Technologists,19-1012,0.077,Bachelor’s Degree,14200.0,63950.0,71270.0
+"Insurance Appraisers, Auto Damage",13-1032,0.98,Associate Degree,15130.0,63510.0,65930.0
+"Layout Workers, Metal and Plastic",51-4192,0.84,High School,9070.0,45820.0,47720.0
+Ophthalmic Laboratory Technicians,51-9083,0.97,High School,28570.0,30640.0,34220.0
+Signal and Track Switch Repairers,49-9097,0.9,High School,8680.0,65350.0,62710.0
+"Software Developers, Applications",15-1132,0.042,Bachelor’s Degree,794000.0,100080.0,104300.0
+Structural Iron and Steel Workers,47-2221,0.83,High School,69440.0,51800.0,56040.0
+Surveying and Mapping Technicians,17-3031,0.96,High School,53920.0,42450.0,45490.0
+Training and Development Managers,11-3131,0.0063,Bachelor’s Degree,32880.0,105830.0,115180.0
+Administrative Services Managers,11-3011,0.73,Bachelor’s Degree,266280.0,90050.0,98930.0
+Architectural and Civil Drafters,17-3011,0.52,Associate Degree,96810.0,51640.0,54290.0
+Atmospheric and Space Scientists,19-2021,0.67,Bachelor’s Degree,9800.0,92460.0,94840.0
+"Biological Scientists, All Other",19-1029,0.015,Bachelor’s Degree,35110.0,74790.0,77830.0
+"Cooks, Institution and Cafeteria",35-2012,0.83,High School,409850.0,24750.0,26370.0
+Customer Service Representatives,43-4051,0.55,High School,2707040.0,32300.0,35170.0
+Fabric and Apparel Patternmakers,51-6092,0.0049,High School,5310.0,39650.0,48460.0
+"Financial Specialists, All Other",13-2099,0.33,Bachelor’s Degree,123270.0,69470.0,76230.0
+Laundry and Dry-Cleaning Workers,51-6011,0.71,High School,207710.0,21510.0,23210.0
+Multimedia Artists and Animators,27-1014,0.015,Bachelor’s Degree,29810.0,65300.0,72200.0
+"Patternmakers, Metal and Plastic",51-4062,0.9,High School,3420.0,44210.0,44490.0
+Prepress Technicians and Workers,51-5111,0.97,Associate Degree,33340.0,38930.0,40640.0
+"Tank Car, Truck and Ship Loaders",53-7121,0.72,High School,10920.0,35770.0,39590.0
+Airfield Operations Specialists,53-2022,0.71,High School,8760.0,48910.0,52380.0
+Athletes and Sports Competitors,27-2021,0.28,High School,10260.0,47710.0,83730.0
+"Computer Occupations, All Other",15-1799,0.22,Bachelor’s Degree,261210.0,86510.0,88880.0
+Diagnostic Medical Sonographers,29-2032,0.35,Associate Degree,65790.0,69650.0,71750.0
+Forest and Conservation Workers,45-4011,0.87,High School,7170.0,26940.0,31200.0
+General and Operations Managers,11-1021,0.16,Bachelor’s Degree,2188870.0,99310.0,122090.0
+Maids and Housekeeping Cleaners,37-2012,0.69,High School,924640.0,21820.0,23830.0
+"Model Makers, Metal and Plastic",51-4061,0.93,High School,6250.0,48550.0,50360.0
+Nuclear Power Reactor Operators,51-8011,0.95,High School,7170.0,91170.0,91370.0
+Occupational Therapy Assistants,31-2011,0.028,Associate Degree,38170.0,59010.0,59530.0
+Oral and Maxillofacial Surgeons,29-1022,0.0036,PhD,5380.0,232870.0,232870.0
+Paralegals and Legal Assistants,23-2011,0.94,Associate Degree,277310.0,49500.0,53180.0
+Radio and Television Announcers,27-3011,0.1,Bachelor’s Degree,29210.0,31400.0,48170.0
+Respiratory Therapy Technicians,29-2054,0.1,Associate Degree,10600.0,49780.0,50520.0
+Conveyor Operators and Tenders,53-7011,0.93,High School,28590.0,31410.0,33870.0
+"Derrick Operators, Oil and Gas",47-5011,0.8,High School,11580.0,48130.0,51140.0
+Electro-Mechanical Technicians,17-3024,0.81,Associate Degree,13710.0,55610.0,57860.0
+Emergency Management Directors,11-9161,0.003,Bachelor’s Degree,9570.0,70500.0,78060.0
+"Fabric Menders, Except Garment",49-9093,0.96,High School,550.0,26920.0,27670.0
+Industrial Machinery Mechanics,49-9041,0.67,High School,334490.0,50040.0,51890.0
+Industrial Production Managers,11-3051,0.03,Bachelor’s Degree,168400.0,97140.0,107060.0
+"Insulation Workers, Mechanical",47-2132,0.64,High School,27270.0,45430.0,51100.0
+Machine Feeders and Offbearers,53-7063,0.93,High School,88070.0,28410.0,30490.0
+"Maintenance Workers, Machinery",49-9043,0.86,High School,89630.0,44550.0,46000.0
+Marriage and Family Therapists,21-1013,0.014,Master’s Degree,36960.0,49170.0,54090.0
+Nuclear Medicine Technologists,29-2033,0.13,Associate Degree,19650.0,74350.0,75960.0
+Payroll and Timekeeping Clerks,43-3051,0.97,High School,159650.0,42390.0,43580.0
+"Physical Scientists, All Other",19-2099,0.43,Bachelor’s Degree,18960.0,96070.0,98460.0
+Stock Clerks and Order Fillers,43-5081,0.64,High School,2016340.0,23840.0,26670.0
+Subway and Streetcar Operators,53-4041,0.86,High School,12350.0,64680.0,62380.0
+Terrazzo Workers and Finishers,47-2053,0.88,High School,3420.0,40930.0,45990.0
+Biochemists and Biophysicists,19-1021,0.027,PhD,29200.0,82180.0,94340.0
+Civil Engineering Technicians,17-3022,0.75,Associate Degree,72150.0,49980.0,52120.0
+Dental Laboratory Technicians,51-9081,0.97,High School,37110.0,37680.0,40760.0
+Locksmiths and Safe Repairers,49-9094,0.77,High School,18640.0,40420.0,42180.0
+Medical Appliance Technicians,51-9082,0.45,High School,14570.0,35980.0,39880.0
+Motion Picture Projectionists,39-3021,0.97,High School,5480.0,22100.0,24750.0
+Music Directors and Composers,27-2041,0.015,Bachelor’s Degree,18380.0,50110.0,60630.0
+Physical Therapist Assistants,31-2021,0.018,Associate Degree,85580.0,56610.0,56850.0
+"Production Workers, All Other",51-9399,0.92,High School,251670.0,28770.0,32380.0
+Proofreaders and Copy Markers,43-9081,0.84,Bachelor’s Degree,11430.0,36960.0,39640.0
+Slaughterers and Meat Packers,51-3023,0.6,High School,80780.0,26590.0,27040.0
+Sound Engineering Technicians,27-4014,0.13,Associate Degree,15210.0,53680.0,65240.0
+Baggage Porters and Bellhops,39-6011,0.83,High School,44750.0,22260.0,24910.0
+Computer Support Specialists,15-1150,0.65,Bachelor’s Degree,791580.0,52160.0,56600.0
+Dietitians and Nutritionists,29-1031,0.0039,Bachelor’s Degree,61430.0,58920.0,59670.0
+Forensic Science Technicians,19-4092,0.0095,Bachelor’s Degree,14800.0,56750.0,60690.0
+Interpreters and Translators,27-3091,0.38,Bachelor’s Degree,51350.0,46120.0,51260.0
+"Library Assistants, Clerical",43-4121,0.95,High School,98560.0,25220.0,27450.0
+Loan Interviewers and Clerks,43-4131,0.92,High School,224340.0,38630.0,40300.0
+Operations Research Analysts,15-2031,0.035,Bachelor’s Degree,109150.0,79200.0,84340.0
+Plasterers and Stucco Masons,47-2161,0.84,High School,22810.0,38890.0,44070.0
+Postal Service Mail Carriers,43-5052,0.68,High School,328950.0,58110.0,50610.0
+Public Relations Specialists,27-3031,0.18,Bachelor’s Degree,226940.0,58020.0,66540.0
+Reporters and Correspondents,27-3022,0.11,Bachelor’s Degree,40090.0,37820.0,49770.0
+Speech-Language Pathologists,29-1127,0.0064,Master’s Degree,135980.0,74680.0,78210.0
+Bill and Account Collectors,43-3011,0.95,High School,298960.0,35350.0,37620.0
+Brickmasons and Blockmasons,47-2021,0.82,High School,64370.0,49250.0,53440.0
+Computer Hardware Engineers,17-2061,0.22,Bachelor’s Degree,72950.0,115080.0,118700.0
+Floor Sanders and Finishers,47-2043,0.87,High School,4590.0,36860.0,38890.0
+"Food Servers, Nonrestaurant",35-3041,0.86,High School,261520.0,21240.0,23490.0
+Foundry Mold and Coremakers,51-4071,0.67,High School,12810.0,34790.0,36030.0
+Highway Maintenance Workers,47-4051,0.87,High School,143320.0,38130.0,39540.0
+Logging Equipment Operators,45-4022,0.79,High School,27250.0,37490.0,38880.0
+Manicurists and Pedicurists,39-5092,0.95,Associate Degree,90630.0,22150.0,24330.0
+Medical Equipment Preparers,31-9093,0.78,High School,52500.0,34400.0,35960.0
+Medical Equipment Repairers,49-9062,0.27,Associate Degree,43370.0,48070.0,50910.0
+Orthotists and Prosthetists,29-2091,0.0035,Master’s Degree,7500.0,65630.0,69920.0
+"Packers and Packagers, Hand",53-7064,0.38,High School,705660.0,22130.0,24430.0
+Parking Enforcement Workers,33-3041,0.84,High School,8920.0,37950.0,39650.0
+Personal Financial Advisors,13-2052,0.58,Bachelor’s Degree,201850.0,90530.0,123100.0
+Taxi Drivers and Chauffeurs,53-3041,0.89,High School,188860.0,24300.0,26790.0
+Tire Repairers and Changers,49-3093,0.7,High School,109350.0,25040.0,27150.0
+Transit and Railroad Police,33-3052,0.57,High School,4810.0,66610.0,67850.0
+Urban and Regional Planners,19-3051,0.13,Master’s Degree,34810.0,70020.0,73060.0
+Word Processors and Typists,43-9022,0.81,High School,67230.0,38740.0,39970.0
+Billing and Posting Clerks,43-3021,0.96,High School,485220.0,36150.0,37570.0
+"Cutters and Trimmers, Hand",51-9031,0.64,High School,14250.0,27600.0,29580.0
+Helpers–Extraction Workers,47-5081,0.37,High School,17660.0,35790.0,37160.0
+Helpers–Production Workers,51-9198,0.66,High School,429890.0,24830.0,26930.0
+Instructional Coordinators,25-9031,0.0042,Master’s Degree,147330.0,62460.0,65500.0
+Mine Shuttle Car Operators,53-7111,0.37,High School,1590.0,56450.0,56370.0
+Occupational Therapy Aides,31-2012,0.27,High School,7210.0,28330.0,31840.0
+"Pourers and Casters, Metal",51-4052,0.87,High School,8560.0,36180.0,37300.0
+Butchers and Meat Cutters,51-3021,0.93,High School,133880.0,29870.0,31740.0
+Computer Systems Analysts,15-1121,0.0065,Bachelor’s Degree,568960.0,87220.0,91620.0
+Counter and Rental Clerks,41-2021,0.97,High School,450330.0,25550.0,29390.0
+Crane and Tower Operators,53-7021,0.9,High School,45020.0,52170.0,55280.0
+Healthcare Social Workers,21-1022,0.0035,Master’s Degree,159310.0,53760.0,55510.0
+Hoist and Winch Operators,53-7041,0.65,High School,2960.0,42530.0,50020.0
+Mechanical Door Repairers,49-9011,0.91,High School,19840.0,38480.0,40420.0
+Medical Transcriptionists,31-9094,0.89,Associate Degree,54070.0,35720.0,37150.0
+Natural Sciences Managers,11-9121,0.018,Bachelor’s Degree,54780.0,119850.0,136150.0
+Nonfarm Animal Caretakers,39-2021,0.82,High School,187360.0,21990.0,24420.0
+Rehabilitation Counselors,21-1015,0.0094,Master’s Degree,103030.0,34670.0,38740.0
+Sailors and Marine Oilers,53-5011,0.83,High School,32530.0,42060.0,46170.0
+Set and Exhibit Designers,27-1027,0.0055,Bachelor’s Degree,12060.0,50990.0,57600.0
+Soil and Plant Scientists,19-1013,0.021,Bachelor’s Degree,14690.0,62300.0,69290.0
+Transportation Inspectors,53-6051,0.9,High School,27430.0,72220.0,72650.0
+Tree Trimmers and Pruners,37-3013,0.77,High School,40680.0,35030.0,37310.0
+Accountants and Auditors,13-2011,0.94,Bachelor’s Degree,1246540.0,68150.0,76730.0
+Advertising Sales Agents,41-3011,0.54,High School,141100.0,50380.0,63660.0
+Cargo and Freight Agents,43-5011,0.99,High School,88920.0,41920.0,44250.0
+"Cooks, Private Household",35-2013,0.3,Associate Degree,370.0,32060.0,42220.0
+Food Preparation Workers,35-2021,0.87,High School,850670.0,21440.0,22920.0
+Home Appliance Repairers,49-9031,0.72,High School,33480.0,37570.0,40390.0
+Human Resources Managers,11-3121,0.0055,Bachelor’s Degree,129810.0,106910.0,120210.0
+Mathematical Technicians,15-2091,0.99,Bachelor’s Degree,510.0,49660.0,58490.0
+Mental Health Counselors,21-1014,0.0048,Master’s Degree,139820.0,42840.0,46050.0
+"Meter Readers, Utilities",43-5041,0.85,High School,34070.0,38940.0,41890.0
+Physical Therapist Aides,31-2022,0.61,High School,50030.0,25680.0,27890.0
+Printing Press Operators,51-5112,0.83,High School,169910.0,35530.0,37460.0
+"Psychologists, All Other",19-3039,0.0043,Master’s Degree,13310.0,95710.0,94650.0
+Real Estate Sales Agents,41-9022,0.86,High School,151840.0,44090.0,59360.0
+"Roustabouts, Oil and Gas",47-5071,0.68,High School,51290.0,37340.0,40480.0
+Semiconductor Processors,51-9141,0.88,Associate Degree,24430.0,35660.0,37890.0
+Sewing Machine Operators,51-6031,0.89,High School,139500.0,23670.0,25830.0
+Agricultural Inspectors,45-2011,0.94,Bachelor’s Degree,14710.0,42800.0,44260.0
+Air Traffic Controllers,53-2021,0.11,Associate Degree,23240.0,122410.0,118200.0
+Bridge and Lock Tenders,53-6011,0.97,High School,3510.0,49090.0,46680.0
+Broadcast News Analysts,27-3021,0.067,Bachelor’s Degree,5070.0,56680.0,78200.0
+Conservation Scientists,19-1031,0.016,Bachelor’s Degree,20470.0,61810.0,65130.0
+Couriers and Messengers,43-5021,0.94,High School,74120.0,28170.0,29920.0
+Database Administrators,15-1141,0.03,Bachelor’s Degree,113730.0,84950.0,87130.0
+Environmental Engineers,17-2081,0.018,Bachelor’s Degree,52280.0,84890.0,88530.0
+Log Graders and Scalers,45-4023,0.97,High School,3020.0,37090.0,38150.0
+Occupational Therapists,29-1122,0.0035,Master’s Degree,118070.0,81910.0,83730.0
+Physicians and Surgeons,29-1060,0.0042,PhD,649850.0,205560.0,210170.0
+Producers and Directors,27-2012,0.022,Bachelor’s Degree,114510.0,70950.0,93840.0
+Psychiatric Technicians,29-2053,0.043,Associate Degree,61720.0,30970.0,35870.0
+Recreational Therapists,29-1125,0.0028,Bachelor’s Degree,18100.0,46410.0,48190.0
+Tile and Marble Setters,47-2044,0.75,High School,36830.0,40460.0,44770.0
+Tour Guides and Escorts,39-7011,0.91,High School,38660.0,24920.0,28100.0
+Agricultural Engineers,17-2021,0.49,Bachelor’s Degree,1980.0,73640.0,77330.0
+Animal Control Workers,33-9011,0.21,High School,12970.0,34550.0,36600.0
+Biological Technicians,19-4021,0.3,Bachelor’s Degree,74720.0,42520.0,46130.0
+Farm Labor Contractors,13-1074,0.97,High School,810.0,35160.0,47290.0
+Film and Video Editors,27-4032,0.31,Bachelor’s Degree,29880.0,62760.0,82190.0
+Insurance Sales Agents,41-3021,0.92,High School,385700.0,49990.0,67760.0
+Insurance Underwriters,13-2053,0.99,Bachelor’s Degree,91650.0,67680.0,75480.0
+"Office Clerks, General",43-9061,0.96,High School,2955550.0,30580.0,33010.0
+Parking Lot Attendants,53-6021,0.87,High School,146350.0,21730.0,23250.0
+Postsecondary Teachers,25-1000,0.032,High School,1530010.0,66500.0,81880.0
+Respiratory Therapists,29-1126,0.066,Associate Degree,126770.0,58670.0,60640.0
+"Rock Splitters, Quarry",47-5051,0.96,High School,3770.0,34020.0,34860.0
+Statistical Assistants,43-9111,0.66,Bachelor’s Degree,10900.0,46850.0,48300.0
+Surgical Technologists,29-2055,0.34,Associate Degree,105720.0,45160.0,46800.0
+Waiters and Waitresses,35-3031,0.94,High School,2564610.0,19990.0,24410.0
+Broadcast Technicians,27-4012,0.74,Associate Degree,30330.0,38550.0,45430.0
+Construction Laborers,47-2061,0.88,High School,912100.0,33430.0,37890.0
+Construction Managers,11-9021,0.071,Bachelor’s Degree,249650.0,89300.0,99510.0
+Correspondence Clerks,43-4021,0.86,High School,6780.0,36370.0,37660.0
+Etchers and Engravers,51-9194,0.98,High School,9520.0,31110.0,34390.0
+Fish and Game Wardens,33-3031,0.08,Bachelor’s Degree,6610.0,51730.0,54760.0
+Food Service Managers,11-9051,0.083,High School,201470.0,50820.0,56010.0
+Musicians and Singers,27-2042,0.074,High School,40110.0,45000.6,61862.4
+"Opticians, Dispensing",29-2081,0.71,High School,75270.0,35530.0,37860.0
+Pile-Driver Operators,47-2072,0.82,High School,3570.0,55070.0,61740.0
+Postal Service Clerks,43-5051,0.95,High School,82030.0,56790.0,48360.0
+Power Plant Operators,51-8013,0.85,High School,35010.0,74690.0,73800.0
+Avionics Technicians,49-2091,0.7,Associate Degree,17330.0,60760.0,61390.0
+Biomedical Engineers,17-2031,0.037,Bachelor’s Degree,20590.0,85620.0,89970.0
+Chefs and Head Cooks,35-1011,0.1,High School,134190.0,43180.0,47390.0
+Chemical Technicians,19-4031,0.57,Associate Degree,65510.0,45840.0,49770.0
+Computer Programmers,15-1131,0.48,Bachelor’s Degree,271200.0,79840.0,85180.0
+Dietetic Technicians,29-2051,0.13,Associate Degree,32240.0,26350.0,29360.0
+Driver/Sales Workers,53-3031,0.98,High School,426310.0,22830.0,28440.0
+Electrical Engineers,17-2071,0.1,Bachelor’s Degree,183770.0,94210.0,98620.0
+"Engineers, All Other",17-2199,0.014,Bachelor’s Degree,123390.0,97300.0,99250.0
+Helpers–Electricians,47-3013,0.74,High School,71890.0,29530.0,30980.0
+Hunters and Trappers,45-3021,0.77,High School,520.0,27110.0,30740.0
+Industrial Engineers,17-2112,0.029,Bachelor’s Degree,256550.0,84310.0,88530.0
+Landscape Architects,17-1012,0.045,Bachelor’s Degree,19420.0,63480.0,68820.0
+Locomotive Engineers,53-4011,0.96,High School,39900.0,57670.0,61020.0
+Materials Scientists,19-2032,0.021,Bachelor’s Degree,7750.0,99430.0,101570.0
+Mechanical Engineers,17-2141,0.011,Bachelor’s Degree,285790.0,84190.0,89800.0
+Motorcycle Mechanics,49-3052,0.79,Associate Degree,16000.0,34720.0,37040.0
+Pest Control Workers,37-2021,0.66,High School,72830.0,33040.0,35020.0
+Pharmacy Technicians,29-2052,0.92,High School,398390.0,30920.0,32170.0
+Physician Assistants,29-1071,0.14,Master’s Degree,104050.0,101480.0,102090.0
+Political Scientists,19-3094,0.039,Master’s Degree,6350.0,114290.0,112250.0
+Radiation Therapists,29-1124,0.34,Associate Degree,17450.0,80160.0,84980.0
+Residential Advisors,39-9041,0.064,High School,110330.0,25570.0,27690.0
+"Roof Bolters, Mining",47-5061,0.49,High School,3930.0,56780.0,58110.0
+Skincare Specialists,39-5094,0.29,Associate Degree,43980.0,30270.0,35160.0
+Aerospace Engineers,17-2011,0.017,Bachelor’s Degree,68510.0,109650.0,112010.0
+Compliance Officers,13-1041,0.08,Bachelor’s Degree,273910.0,66540.0,70250.0
+Financial Examiners,13-2061,0.17,Bachelor’s Degree,49750.0,79280.0,88940.0
+Furniture Finishers,51-7021,0.87,High School,17370.0,30550.0,32330.0
+Gaming Cage Workers,43-3041,0.39,High School,18810.0,25990.0,28120.0
+Gas Plant Operators,51-8092,0.78,High School,17350.0,67580.0,67980.0
+Judicial Law Clerks,23-1012,0.41,PhD,13410.0,51760.0,59840.0
+Library Technicians,25-4031,0.99,Associate Degree,93410.0,32890.0,34780.0
+Management Analysts,13-1111,0.13,Bachelor’s Degree,637690.0,81330.0,91910.0
+"Managers, All Other",11-9199,0.25,Bachelor’s Degree,403670.0,104970.0,112150.0
+Materials Engineers,17-2131,0.021,Bachelor’s Degree,26800.0,93310.0,97050.0
+Mechanical Drafters,17-3013,0.68,Associate Degree,63630.0,54480.0,57480.0
+Medical Secretaries,43-6013,0.81,High School,556820.0,33730.0,35060.0
+Motorboat Operators,53-5022,0.62,Associate Degree,3290.0,40210.0,43340.0
+New Accounts Clerks,43-4141,0.99,High School,41630.0,34990.0,36480.0
+Nuclear Technicians,19-4051,0.85,Associate Degree,6840.0,79140.0,77820.0
+"Patternmakers, Wood",51-7032,0.91,High School,970.0,46510.0,47850.0
+Personal Care Aides,39-9021,0.74,High School,1492250.0,21920.0,22710.0
+Petroleum Engineers,17-2171,0.16,Bachelor’s Degree,32780.0,128230.0,147030.0
+Physical Therapists,29-1123,0.021,PhD,216920.0,85400.0,87220.0
+Purchasing Managers,11-3061,0.03,Bachelor’s Degree,71750.0,111590.0,117720.0
+Real Estate Brokers,41-9021,0.97,High School,40850.0,56790.0,79340.0
+Retail Salespersons,41-2031,0.92,High School,4528550.0,22680.0,27180.0
+Sheet Metal Workers,47-2211,0.82,High School,134450.0,46940.0,51080.0
+Telephone Operators,43-2021,0.97,High School,8860.0,37000.0,43030.0
+Tool and Die Makers,51-4111,0.84,High School,72210.0,51060.0,51610.0
+Traffic Technicians,53-6041,0.9,High School,6410.0,45150.0,48650.0
+Writers and Authors,27-3043,0.038,Bachelor’s Degree,44690.0,61240.0,71920.0
+Chemical Engineers,17-2041,0.017,Bachelor’s Degree,31990.0,98340.0,105420.0
+Coaches and Scouts,27-2022,0.013,Bachelor’s Degree,230930.0,31460.0,41000.0
+Computer Operators,43-9011,0.78,High School,46810.0,42270.0,43880.0
+"Cooks, Short Order",35-2015,0.94,High School,183990.0,21890.0,23130.0
+Costume Attendants,39-3092,0.61,High School,6640.0,45900.0,50470.0
+Desktop Publishers,43-9031,0.16,Associate Degree,13090.0,41090.0,44380.0
+Financial Analysts,13-2051,0.23,Bachelor’s Degree,281610.0,81760.0,97640.0
+Financial Managers,11-3031,0.069,Bachelor’s Degree,543300.0,121750.0,139720.0
+Funeral Attendants,39-4021,0.37,High School,35770.0,24830.0,27110.0
+Gaming Supervisors,39-1011,0.28,High School,22130.0,50520.0,50810.0
+Helpers–Carpenters,47-3012,0.92,High School,35890.0,28810.0,30200.0
+Interior Designers,27-1025,0.022,Bachelor’s Degree,53160.0,49810.0,56220.0
+Marketing Managers,11-2021,0.014,Bachelor’s Degree,205900.0,131180.0,144140.0
+Massage Therapists,31-9011,0.54,Associate Degree,95830.0,39860.0,44480.0
+Medical Assistants,31-9092,0.3,Associate Degree,623560.0,31540.0,32850.0
+"Model Makers, Wood",51-7031,0.96,High School,1040.0,40890.0,47480.0
+Parts Salespersons,41-2022,0.98,High School,248740.0,29780.0,33220.0
+Procurement Clerks,43-3061,0.98,High School,72120.0,41410.0,41980.0
+Rail Car Repairers,49-3043,0.88,High School,22090.0,55000.0,53590.0
+Recreation Workers,39-9032,0.0061,High School,336880.0,23870.0,27230.0
+Survey Researchers,19-3022,0.23,Master’s Degree,11930.0,54470.0,59950.0
+Teacher Assistants,25-9041,0.56,Associate Degree,1263820.0,25410.0,27120.0
+Animal Scientists,19-1011,0.061,Bachelor’s Degree,2470.0,60330.0,72890.0
+Athletic Trainers,29-9091,0.0071,Bachelor’s Degree,24130.0,45630.0,47880.0
+Bicycle Repairers,49-3091,0.94,High School,12560.0,27630.0,28520.0
+Carpet Installers,47-2041,0.87,High School,25660.0,38280.0,44310.0
+Childcare Workers,39-9011,0.084,High School,569370.0,21170.0,22930.0
+Commercial Divers,49-9092,0.18,Associate Degree,3370.0,49090.0,53990.0
+Commercial Pilots,53-2012,0.55,High School,38980.0,77200.0,86260.0
+"Cooks, Restaurant",35-2014,0.96,High School,1217370.0,24140.0,25430.0
+Credit Counselors,13-2071,0.04,Bachelor’s Degree,34110.0,44380.0,49480.0
+Data Entry Keyers,43-9021,0.99,High School,194810.0,30100.0,31640.0
+Dental Assistants,31-9091,0.51,Associate Degree,327290.0,36940.0,37890.0
+Dental Hygienists,29-2021,0.68,Associate Degree,204990.0,72910.0,73440.0
+"Dentists, General",29-1021,0.0044,PhD,105620.0,153900.0,173860.0
+Fashion Designers,27-1022,0.021,Bachelor’s Degree,19230.0,65170.0,76480.0
+Flight Attendants,53-2031,0.35,High School,113390.0,48500.0,51620.0
+Graphic Designers,27-1024,0.082,Bachelor’s Degree,210710.0,47640.0,52290.0
+Home Health Aides,31-1011,0.39,High School,814300.0,22600.0,23600.0
+Legal Secretaries,43-6012,0.98,High School,191200.0,44180.0,47900.0
+Locomotive Firers,53-4012,0.93,High School,1210.0,58230.0,63750.0
+Nuclear Engineers,17-2161,0.07,Bachelor’s Degree,17680.0,102220.0,105950.0
+Psychiatric Aides,31-1013,0.47,High School,67410.0,26720.0,28770.0
+Registered Nurses,29-1111,0.009,PhD,9800.0,124830.0,144110.0
+Technical Writers,27-3042,0.89,Bachelor’s Degree,49780.0,69850.0,73160.0
+Brokerage Clerks,43-4011,0.98,High School,59820.0,49200.0,52380.0
+Chief Executives,11-1011,0.015,Bachelor’s Degree,223260.0,181210.0,194350.0
+"Cooks, Fast Food",35-2011,0.81,High School,513200.0,19860.0,20570.0
+Dredge Operators,53-7031,0.92,High School,1760.0,42420.0,46530.0
+Floral Designers,27-1023,0.047,High School,43990.0,25850.0,27610.0
+Food Batchmakers,51-3092,0.7,High School,148540.0,27810.0,30130.0
+Health Educators,21-1091,0.045,Bachelor’s Degree,57570.0,53070.0,57900.0
+Lodging Managers,11-9081,0.0039,High School,35410.0,51840.0,59410.0
+Segmental Pavers,47-4091,0.83,High School,1720.0,33530.0,34160.0
+Slot Supervisors,39-1012,0.54,High School,7640.0,36080.0,38300.0
+Wellhead Pumpers,53-7073,0.84,High School,11610.0,49610.0,50730.0
+Animal Breeders,45-2021,0.95,High School,1270.0,35690.0,42340.0
+Animal Trainers,39-2011,0.1,High School,13590.0,27690.0,34580.0
+Budget Analysts,13-2031,0.94,Bachelor’s Degree,54700.0,73840.0,77170.0
+Civil Engineers,17-2051,0.019,Bachelor’s Degree,287800.0,83540.0,89730.0
+Cost Estimators,13-1051,0.57,Bachelor’s Degree,214610.0,61790.0,66620.0
+Court Reporters,23-2091,0.5,Associate Degree,17700.0,51320.0,56940.0
+Credit Analysts,13-2041,0.98,Bachelor’s Degree,72930.0,69930.0,81160.0
+Crossing Guards,33-9091,0.49,High School,72900.0,26700.0,29190.0
+Epidemiologists,19-1041,0.2,Master’s Degree,5690.0,70820.0,77720.0
+Gaming Managers,11-9071,0.091,High School,4280.0,69180.0,79690.0
+Helpers–Roofers,47-3016,0.72,High School,10190.0,27670.0,28890.0
+Microbiologists,19-1022,0.012,Bachelor’s Degree,21670.0,66850.0,76850.0
+Prosthodontists,29-1024,0.055,PhD,750.0,126050.0,168140.0
+Radio Operators,27-4013,0.98,High School,870.0,46250.0,46780.0
+Sales Engineers,41-9031,0.0041,Bachelor’s Degree,74330.0,100000.0,108880.0
+Security Guards,33-9032,0.84,High School,1103120.0,25770.0,29730.0
+Team Assemblers,51-2092,0.97,High School,1112780.0,30060.0,32550.0
+Watch Repairers,49-9064,0.99,High School,1620.0,36740.0,39720.0
+Choreographers,27-2032,0.004,High School,5160.0,48240.0,53610.0
+Fence Erectors,47-4031,0.92,High School,21500.0,33150.0,36380.0
+Gaming Dealers,39-3011,0.96,High School,94570.0,19290.0,21990.0
+Mathematicians,15-2021,0.047,Master’s Degree,2730.0,105810.0,105600.0
+Pharmacy Aides,31-9095,0.72,High School,36660.0,25240.0,28420.0
+Sales Managers,11-2022,0.013,Bachelor’s Degree,365230.0,117960.0,135090.0
+Ship Engineers,53-5031,0.041,Associate Degree,9750.0,70570.0,74120.0
+Art Directors,27-1011,0.023,Bachelor’s Degree,36210.0,89820.0,101170.0
+Chiropractors,29-1011,0.027,PhD,32960.0,67520.0,81210.0
+Craft Artists,27-1012,0.035,High School,5070.0,33440.0,38900.0
+Loan Officers,13-2072,0.98,Bachelor’s Degree,305700.0,63650.0,76260.0
+Orthodontists,29-1023,0.023,PhD,5200.0,228780.0,228780.0
+Photographers,27-4021,0.021,High School,48660.0,34070.0,42640.0
+Statisticians,15-2041,0.22,Master’s Degree,33440.0,80500.0,85160.0
+Tax Preparers,13-2082,0.99,High School,70030.0,36550.0,45340.0
+Telemarketers,41-9041,0.99,High School,215290.0,24300.0,27170.0
+Tire Builders,51-9197,0.94,High School,22280.0,41680.0,42230.0
+Travel Agents,41-3041,0.099,High School,68680.0,36460.0,39900.0
+Travel Guides,39-7012,0.057,High School,3030.0,32100.0,35930.0
+Veterinarians,29-1131,0.038,PhD,67650.0,88770.0,100560.0
+Audiologists,29-1181,0.0033,PhD,12310.0,75980.0,79290.0
+Boilermakers,47-2011,0.68,High School,16660.0,62060.0,62200.0
+Electricians,47-2111,0.15,High School,607120.0,52720.0,56650.0
+Firefighters,33-2011,0.17,Associate Degree,315910.0,48030.0,50520.0
+Hydrologists,19-2043,0.014,Bachelor’s Degree,6300.0,80480.0,83740.0
+Logisticians,13-1081,0.012,Bachelor’s Degree,146060.0,74170.0,77810.0
+Optometrists,29-1041,0.14,PhD,36430.0,106140.0,117580.0
+Order Clerks,43-4151,0.98,High School,176850.0,33370.0,35160.0
+Paperhangers,47-2142,0.87,High School,3190.0,33770.0,36470.0
+"Sewers, Hand",51-6051,0.99,High School,6540.0,24520.0,25630.0
+Sociologists,19-3041,0.059,Master’s Degree,2870.0,79750.0,86840.0
+Upholsterers,51-6093,0.39,High School,32520.0,33050.0,34640.0
+Astronomers,19-2011,0.041,PhD,1830.0,104740.0,110380.0
+Dishwashers,35-9021,0.77,High School,506450.0,20800.0,21260.0
+File Clerks,43-4071,0.97,High School,130950.0,29090.0,31260.0
+Geographers,19-3092,0.25,Bachelor’s Degree,1370.0,74260.0,74090.0
+Millwrights,49-9044,0.59,High School,39670.0,52440.0,53950.0
+Pharmacists,29-1051,0.012,PhD,305510.0,122230.0,120270.0
+Hosts and Hostesses,29-1081,0.0046,PhD,9800.0,124830.0,144110.0
+Stonemasons,47-2022,0.89,High School,13190.0,39780.0,43650.0
+Archivists,25-4011,0.76,Master’s Degree,5760.0,50500.0,54570.0
+Bartenders,35-3011,0.77,High School,603320.0,20800.0,25580.0
+Carpenters,47-2031,0.72,High School,676980.0,43600.0,48340.0
+Concierges,39-6012,0.21,High School,32020.0,29250.0,31440.0
+Economists,19-3011,0.43,Master’s Degree,19380.0,101050.0,112860.0
+Historians,19-3093,0.44,Master’s Degree,2950.0,55110.0,60990.0
+Librarians,25-4021,0.65,Master’s Degree,129350.0,57680.0,59870.0
+Machinists,51-4041,0.65,High School,391120.0,41700.0,43220.0
+Physicists,19-2012,0.1,PhD,16680.0,115870.0,121770.0
+Pipelayers,47-2151,0.62,High School,39620.0,38410.0,42860.0
+Shampooers,39-5093,0.79,High School,15240.0,19700.0,20960.0
+Actuaries,15-2011,0.21,Bachelor’s Degree,19940.0,100610.0,114120.0
+Embalmers,39-4011,0.54,Associate Degree,3710.0,40150.0,42260.0
+Foresters,19-1032,0.0081,Bachelor’s Degree,8420.0,58700.0,60300.0
+Surveyors,17-1022,0.38,Bachelor’s Degree,43340.0,59390.0,63480.0
+Bailiffs,33-3011,0.36,High School,17880.0,42670.0,45740.0
+Cashiers,41-2011,0.97,High School,3541010.0,20180.0,21680.0
+Chemists,19-2031,0.1,Bachelor’s Degree,86660.0,73740.0,80820.0
+Curators,25-4012,0.0068,Master’s Degree,11170.0,53360.0,58910.0
+Glaziers,47-2121,0.73,High School,47140.0,41920.0,47260.0
+Barbers,39-5011,0.8,Associate Degree,15900.0,25760.0,29900.0
+Dancers,27-2031,0.13,High School,10060.0,24594.6,32739.1
+Editors,27-3041,0.055,Bachelor’s Degree,97170.0,57210.0,66080.0
+Fallers,45-4021,0.76,High School,5370.0,37370.0,42900.0
+Lawyers,23-1011,0.035,PhD,619530.0,118160.0,139880.0
+Riggers,49-9096,0.89,High School,21020.0,45690.0,49030.0
+Roofers,47-2181,0.9,High School,116410.0,37760.0,42080.0
+Tellers,43-3071,0.98,High School,496760.0,27260.0,28060.0
+Actors,27-2011,0.37,Associate Degree,48620.0,33473.0,71313.6
+Bakers,51-3011,0.89,High School,180450.0,25090.0,27110.0
+Clergy,21-2011,0.0081,Bachelor’s Degree,49320.0,45740.0,49450.0
+Models,41-9012,0.98,High School,4390.0,21870.0,36560.0
+Tapers,47-2082,0.62,High School,18480.0,48990.0,53790.0
